@@ -1,0 +1,2 @@
+[0528/124620:ERROR:exception_handler_server.cc(504)] failed to open 5536
+[0528/124620:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: No process is on the other end of the pipe. (0xE9)
